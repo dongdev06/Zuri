@@ -1,5 +1,5 @@
 const fs = require("fs-extra");
-const login = require("@miraipr0ject/fca-unofficial");
+const login = require("fca-disme");
 const readline = require("readline");
 const totp = require("totp-generator");
 
