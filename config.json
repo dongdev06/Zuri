@@ -1,20 +1,19 @@
 {
-    "language": "en",
+    "language": "vi",
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
     "allowInbox": true,
-    "autoClean": false,
+    "autoClean": true,
     "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
+    "BOTNAME": "𝐙𝐮𝐫𝐢",
     "PREFIX": "!",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "100068096370437"
     ],
     "DATABASE": {
         "sqlite": {
